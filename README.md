@@ -27,7 +27,7 @@ To run the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/penny5283/data-science-project.git
-   cd your-repository
+   cd data-science-project
    ```
 
 2. Create a virtual environment and activate it:
