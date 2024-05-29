@@ -1,0 +1,6 @@
+pandas
+xgboost
+sklearn
+matplotlib
+seaborn
+torch
